@@ -1,0 +1,4 @@
+enum OpenClose{
+  open,
+  close
+}
